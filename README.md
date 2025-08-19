@@ -51,7 +51,7 @@
   <a href="https://github.com/mohamedwaell" target="_blank">
      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-wael-/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-wael-9639bb344/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40" />
   </a>
   <a href="mailto:mhamedwaell22@gmail.com" target="_blank">
