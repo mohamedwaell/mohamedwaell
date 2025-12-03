@@ -57,3 +57,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="40" width="40" alt="Email" />
   </a>
 </p>
+![Your Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&layout=compact)
