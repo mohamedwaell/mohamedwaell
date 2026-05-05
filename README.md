@@ -14,31 +14,29 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Computer Science Student at Damanhour University  
-- 🌱 Currently building full-stack applications with **MongoDB, Express, React, and Node.js** - 💡 Passionate about **Web Technologies, Backend Architecture & Digital Problem Solving** - 🚀 Eager to build impactful tech projects and grow in dynamic environments  
+ ### 👨‍💻 About Me
+- 🎓 Computer Science Student at Damanhour University
+- 🏆 Winner of **Best AI Application** at Luxor Hackathon 2026
+- 🚀 Developing **Al-Manassa**, a multi-tenant SaaS educational platform
+- 🌱 Specialized in the **MERN Stack** and building multimodal AI agents like **Horus**
+- 💡 Passionate about **3D Web Environments** using Three.js and React Three Fiber
 
 ---
 
 ### ⚡ Tech Stack
 <p align="center">
-  
-
- 
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" style="margin: 0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" alt="CSS" style="margin: 0 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" style="margin: 0 5px;" />
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40" alt="React" style="margin: 0 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="Node.js" style="margin: 0 5px;" />
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" style="margin: 0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" width="40" alt="Express" style="margin: 0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB" style="margin: 0 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" alt="Git" style="margin: 0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="Python" style="margin: 0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" style="margin: 0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="40" alt="Java" style="margin: 0 5px;" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" width="40" alt="Express" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="40" alt="Java" />
 </p>
 
 ---
@@ -46,10 +44,10 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.mo-wael.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/internet.png" height="40" width="40" alt="Portfolio Website" />
+    <img src="https://img.icons8.com/color/48/000000/internet.png" height="40" width="40" alt="Portfolio" />
   </a>
   <a href="https://github.com/mohamedwaell" target="_blank">
-     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40" alt="Github" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40" alt="Github" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-wael-9639bb344/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="LinkedIn" />
@@ -58,4 +56,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="40" width="40" alt="Email" />
   </a>
 </p>
-
