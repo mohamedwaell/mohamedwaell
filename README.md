@@ -30,23 +30,41 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="Next.js" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" /></td>
+ <td><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" width="40" alt="Express" /></td>
+ <td><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB" /> </td>
+<td><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" alt="Git" /> </td>
+ <td><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="Python" /> </td>
+<td><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" /></td>
+ <td><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="40" alt="Java" /></td>
+
   </tr>
 </table>
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
+<table align="center">
+  <tr>
+     <td>
   <a href="https://www.mo-wael.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/internet.png" height="40" width="40" alt="Portfolio" />
   </a>
+       </td>
+     <td>
   <a href="https://github.com/mohamedwaell" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40" alt="Github" />
   </a>
+       </td>
+     <td>
   <a href="https://www.linkedin.com/in/mohamed-wael-9639bb344/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="LinkedIn" />
   </a>
+       </td>
+     <td>
   <a href="mailto:mhamedwaell22@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="40" width="40" alt="Email" />
   </a>
-</p>
+       </td>
+  </tr>
+</table>
